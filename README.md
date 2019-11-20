@@ -1,7 +1,8 @@
 # Predicting-presence-of-Heart-Disease
 
 Learnt-
-      Understanding use of DataSets
+
+Understanding use of DataSets
       Model Building
       Logistic Regression Accuracy 85.25%
       KNN accuracy: 63.93%
